@@ -1,3 +1,4 @@
 Ref,PartNumber,Description,Qty
-R1,RES-10k,Resistor 10k 1%,2
+R1,RES-10k,Resistor 10k 1%,4
 C1,CAP-100nF,Ceramic Capacitor 100nF,1
+U1,MCU-STM32,Main Controller,1
